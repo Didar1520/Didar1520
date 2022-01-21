@@ -54,6 +54,9 @@
  Almaty Web 
 ![Almaty Web ](https://github.com/Didar1520/Didar1520/blob/main/assets/AlmatyWeb.jpg)
 
+<img  src="https://github.com/Didar1520/Didar1520/blob/main/assets/AlmatyWeb.jpg" width="48" >
+
+
 
 ## **Мини био**:)
 Из разработки нравится или по крайней мере вызывает интерес React, React-Native, Redux (понравилось больше чем MobX) хочу научится еще Flutter, понимать азы UI, UX дизайна.
