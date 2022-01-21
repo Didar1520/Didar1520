@@ -59,14 +59,13 @@
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-<img  src="https://github.com/Didar1520/Didar1520blob/main/assets/AlmatyWeb.jpg" width="240" >  | <img  src="https://github.com/Didar1520/Didar1520blob/main/assets/AlmatyWeb.jpg" width="240" >
+<img  src="https://github.com/Didar1520/Didar1520/blob/main/assets/AlmatyWeb.jpg" width="240" >  | <img  src="https://github.com/Didar1520/Didar1520/blob/main/assets/AlmatyWeb.jpg" width="240" >
 
 
 
 
-<img  src="https://github.com/Didar1520/Didar1520blob/main/assets/AlmatyWeb.jpg" width="240" >
-<img  src="https://github.com/Didar1520/Didar1520blob/main/assets/AlmatyWeb.jpg" width="240" >
-<img  src="https://github.com/Didar1520/Didar1520blob/main/assets/AlmatyWeb.jpg" width="240" >
+<img  src="https://github.com/Didar1520/Didar1520/blob/main/assets/AlmatyWeb.jpg" width="240" >
+
 
 
 ## **Мини био**:)
