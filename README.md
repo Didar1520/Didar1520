@@ -1,4 +1,4 @@
-
+<img  src="https://github.com/Didar1520/Didar1520/blob/main/assets/AlmatyWeb.jpg" width="800" >
 
 ## **Фронт-енд разработчик**.
 ![](https://komarev.com/ghpvc/?username=Didar1520-github-username&color=blue)
@@ -49,7 +49,7 @@
  ### Дмитрий Кузюбердин __React__ путь самурая __2.0__
  ### Дмитрий Кузюбердин уроки __TypeScript__
  ### __React Native__ - The Practical Guide Maximilian Schwarzmüller (сейчас смотрю)
- 
+
 </details>
 
 ## __Проекты над которым работал или сталкивался на курсе__ 
