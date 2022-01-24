@@ -53,7 +53,7 @@
 
 ### <a href="https://didar1520.github.io/almatyweb/#" >__Almaty Web__ </a>
 
-<img  src="https://github.com/Didar1520/Didar1520/blob/main/assets/AlmatyWeb.jpg" width="420" >
+<img  src="https://github.com/Didar1520/Didar1520/blob/main/assets/AlmatyWeb.jpg" width="630" >
 
 Хотел сам заниматься созданием сайтов и приложений под заказ, некий фриланс. Также думал привлечь пару человек. 
 Для этого создавался данный сайт, дизайн, текст, верстка были сделаны с нуля. <br> 
@@ -66,7 +66,7 @@
 
 
  ### <a href="https://github.com/Didar1520/React-Redux_SN"> __Social Network Samurai__  </a>
-<img  src="https://github.com/Didar1520/Didar1520/blob/main/assets/SocialNetwork.PNG" width="420" >
+<img  src="https://github.com/Didar1520/Didar1520/blob/main/assets/SocialNetwork.PNG" width="630" >
  Это проект автора Дмитрий Кузюбердина, соответсенно архитектура и все приложение было сделано им, мне надо было просто понять тему и написать код самому.<br> 
  Приложение представляет некое подобие социальной сети где можно выводить список пользователей, подписаться на них, просмотреть профиль, также есть общий чат для общения.<br> 
  С бэкендом взаимодействует через Axios и Async Await, раньше были Fetch запросы. 
