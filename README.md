@@ -59,7 +59,7 @@
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-<img  src="https://github.com/Didar1520/Didar1520/blob/main/assets/AlmatyWeb.jpg" width="240" >  | <img  src="https://github.com/Didar1520/Didar1520/blob/main/assets/AlmatyWeb.jpg" width="240" >
+<img  src="https://github.com/Didar1520/Didar1520/blob/main/assets/AlmatyWeb.jpg" width="240" > <a href="https://github.com/Didar1520/React-Redux_SN">  | <img  src="https://github.com/Didar1520/Didar1520/blob/main/assets/AlmatyWeb.jpg" width="240" >
 
 
 
