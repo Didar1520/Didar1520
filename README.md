@@ -1,4 +1,4 @@
-<img  src="https://github.com/Didar1520/Didar1520/blob/main/assets/header.PNG" width="700" >
+<img  src="https://github.com/Didar1520/Didar1520/blob/main/assets/header.PNG" width="836" >
 
 ## **Фронт-енд разработчик**.
 ![](https://komarev.com/ghpvc/?username=Didar1520-github-username&color=blue)
