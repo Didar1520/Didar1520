@@ -66,7 +66,7 @@
 
 
  ### <a href="https://github.com/Didar1520/React-Redux_SN"> __Social Network Samurai__  </a>
-<img  src="https://github.com/Didar1520/Didar1520/blob/main/assets/AlmatyWeb.jpg" width="420" >
+<img  src="https://github.com/Didar1520/Didar1520/blob/main/assets/SocialNetwork.PNG" width="420" >
  Это проект автора Дмитрий Кузюбердина, соответсенно архитектура и все приложение было сделано им, мне надо было просто понять тему и написать код самому.<br> 
  Приложение представляет некое подобие социальной сети где можно выводить список пользователей, подписаться на них, просмотреть профиль, также есть общий чат для общения.<br> 
  С бэкендом взаимодействует через Axios и Async Await, раньше были Fetch запросы. 
