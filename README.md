@@ -1,6 +1,7 @@
 
 
 ## **Фронт-енд разработчик**.
+![](https://komarev.com/ghpvc/?username=Didar1520-github-username&color=blue)
 ### Начинающий разработчик приложений на мобильные платформы.
 
 ## **Обо мне** 
